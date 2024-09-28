@@ -1,4 +1,4 @@
-service vendor.ril-daemon /vendor/bin/hw/rild
+service ril-daemon /vendor/bin/hw/rild
     override
     class main
     user radio
